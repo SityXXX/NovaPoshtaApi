@@ -1,0 +1,25 @@
+{
+  "name": "novaposhta",
+  "authors": [
+    "Yura Bazaliy <yurchykxxx@gmail.com>"
+  ],
+  "description": "Nova Poshta API usage",
+  "main": "index.html",
+  "keywords": [
+    "NP",
+    "Nova",
+    "Poshta"
+  ],
+  "license": "MIT",
+  "homepage": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

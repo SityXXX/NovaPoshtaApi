@@ -1,0 +1,7 @@
+.idea/
+bower_components/
+npm-debug.log
+.gulp-scss-cache/
+.sass-cache/
+node_modules/
+dist/
